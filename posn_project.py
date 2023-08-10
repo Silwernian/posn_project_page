@@ -1,7 +1,7 @@
 import streamlit as st
 
 
-st.header(':violet[**Project POSN**]')
+st.header(':violet[**Project: Mastering Physics**]')
 
 st.divider()
 
@@ -81,5 +81,6 @@ st.markdown(
 
 Question:
 * เริ่มได้เร็วที่สุดเมื่อไหร่ ประกาศขายเมื่อไหร่ถ้าจะเริ่มเลย
+* 
 '''
 )
