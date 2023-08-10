@@ -79,8 +79,35 @@ st.markdown(
 - น้องมาเรียนตามเวลาที่เลือก (เด็กข้างนอกมากี่วันก็ได้แต่ต้องแจ้งก่อน)
 - Evaluate ท้ายคอร์ส หรือเมื่อจบวิชาหนึ่งๆ ถ้ามีปัญหาเรียกเข้ามา Consult / Adjust   
 
-Question:
+:blue[Question:]
 * เริ่มได้เร็วที่สุดเมื่อไหร่ ประกาศขายเมื่อไหร่ถ้าจะเริ่มเลย
-* 
+   
+:blue[**PR ก่อนเรียนคอร์ส**]
+* Algebra
+    * Power and Polynomials
+    * Rational Fraction
+    * Simplifying an Expression
+    * Solving $P^1 (x)\\;and \\;P^2(x)$
+    * simple inequality
+* Functions and Geometry
+    * Euclidean Plane Geometry
+    * Slope and Tangent
+    * function notation and definition
+    * how to graph a function 
+    * graph of some simple functions
+    * inverse function
+    * simple composite function
+    * Idea of Domain and Range
+* Basic Trigonometry
+    * funcdamental trig. functions $\\; \\sin\\;\\cos\\;\\tan$
+    * fundamental identities
+    * value of some basic angles $30^o,\\;45^o,...$
+    * Unit Circle
+    * Graph of $\\; \\sin(x)$
+   
+:blue[ถ้าเด็กไม่ผ่าน Pretest]
+* Assign Sheet โดยให้เลือกว่าจะเรียน Hybrid หรือ Everyday
+* ควรเรียนเฉพาะส่วนที่จำเป็นจริงๆ ให้เรียนได้เร็วที่สุด (ปรับตามพื้นฐานของเด็กแต่ละคน)
+
 '''
 )
